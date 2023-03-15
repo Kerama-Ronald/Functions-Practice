@@ -1,1 +1,2 @@
 #average
+#averageofarray
