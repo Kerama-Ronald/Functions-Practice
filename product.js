@@ -15,7 +15,10 @@
 // console.log(getProduct([2, 6, 8, 9]))
 
 
-getProduct = (arr) => {
+
+//arrow function
+
+getProduct = (arr) => { 
 
     let product = 1;
 
