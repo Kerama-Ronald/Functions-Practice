@@ -11,6 +11,8 @@
 //   console.log(total); 
 
 
+
+
   function getEvennumbers(num){
     const evennum = [];
     for(let i = 0; i< num.length; i++){
